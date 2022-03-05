@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aleksander Jodłowski",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/aleksess/mamda"
 }
